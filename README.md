@@ -36,6 +36,7 @@ Nowadays, the rise of VR has also had an effect on the world of drones. Specific
 view” flying which has began to share significant aspects of VR technology.
 
 **Project Propose**
+
 For thousands of years, agriculture has played an important role in everyday life. That’s why The interest
 chose in this project was related in the agriculture field which is a very important and huge field. It is a
 natural resource that sustain human life and provide economic gain. It combines creativity, imagination, and
