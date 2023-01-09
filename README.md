@@ -1,6 +1,7 @@
 # VRxR
 
 Introduction
+
 Virtual Reality is, in the simplest of terms, a simulation of something that does not exist, in a very real
 environment. So you can be taking a vacation in Vienna without even leaving your sofa.
 The main purpose of it is not only to experience something new by vision but the user has the ability to control
@@ -42,7 +43,7 @@ the environment and stops under specific conditions to burn and get off of bad h
 leaving the good ones which normal people might do it, not in that perfection of course and will obviously take
 so much time to accomplish it.
 Drones in agriculture are numerous, it is one of the technologies that is driving precision agriculture which
-improves efficiency, productivity, crop yield and profitability through the use of technology. According to analysts, drones in agriculture will be worth a massive 5 billion of dollars by the end of 2025.
+improves efficiency, productivity, crop yield and profitability through the use of technology. According to analysts, drones in agriculture will be worth a massive 5 billion of dollars by the end of 2025.
 It’s a powerful tool for farmers and agronomists to assess the health of their crops they can get an overview
 of their fields and collect data much faster and more efficiently than traditional methods by seeing how healthy
 their plants are, where they might need water or nutrients, and if there any plants that have to be burnt or
