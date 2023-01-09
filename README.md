@@ -1,6 +1,6 @@
 # VRxR
 
-Introduction
+#Introduction
 
 Virtual Reality is, in the simplest of terms, a simulation of something that does not exist, in a very real
 environment. So you can be taking a vacation in Vienna without even leaving your sofa.
