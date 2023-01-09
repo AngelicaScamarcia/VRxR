@@ -1,6 +1,6 @@
 # VRxR
 
-*Introduction*
+**Introduction*
 
 Virtual Reality is, in the simplest of terms, a simulation of something that does not exist, in a very real
 environment. So you can be taking a vacation in Vienna without even leaving your sofa.
@@ -19,14 +19,16 @@ bu the tools and gadgets used in this system are common to us and utilize so the
 3. Non-Immersive VR system: Non-Immersive VR system is the least immersive, the gadgets and tools used are
 limited to glasses and display monitors and it uses the least expensive components.
 
-Unreal Engine
+**Unreal Engine
+
 In our project we’re working with Unreal Engine which is an immersive type of VR system, which empowers
 you to build your team, your assets, and your workflow with tools that can deliver on your creative vision and
 quality bar now and in the future. It merges augmented reality, virtual reality and mixed reality technologies
 together to evolve rapidly and become more powerful. You start in the VR editor at a human scale and can
 directly manipulate objects by moving around in a room-scale VR setting.
 
-Project’s purpose
+**Project’s purpose
+
 The main purpose of this project is to create an environment using drones for environmental monitoring,
 with a smart mobility and civil protection. There are several categories of drones: Multi-rotor or multi-copter
 and the fixed-wing but there are also terrestrial, water surface, submarines, aerostats, and stratospheric drones.
