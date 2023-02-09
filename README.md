@@ -29,18 +29,13 @@ quality bar now and in the future. It merges augmented reality, virtual reality 
 together to evolve rapidly and become more powerful. You start in the VR editor at a human scale and can
 directly manipulate objects by moving around in a room-scale VR setting.
 
-Project’s purpose
+Project Purpose
 ================================
 
 The main purpose of this project is to create an environment using drones for environmental monitoring,
-with a smart mobility and civil protection. There are several categories of drones: Multi-rotor or multi-copter
-and the fixed-wing but there are also terrestrial, water surface, submarines, aerostats, and stratospheric drones.
+with a smart mobility and civil protection.
 Nowadays, the rise of VR has also had an effect on the world of drones. Specifically the art of FPV or “first-person
 view” flying which has began to share significant aspects of VR technology.
-
-Project Propose
-================================
-
 For thousands of years, agriculture has played an important role in everyday life. That’s why The interest
 chose in this project was related in the agriculture field which is a very important and huge field. It is a
 natural resource that sustain human life and provide economic gain. It combines creativity, imagination, and
