@@ -51,4 +51,3 @@ of their fields and collect data much faster and more efficiently than tradition
 their plants are, where they might need water or nutrients, and if there any plants that have to be burnt or
 not. Noting that all these cases might be missed without the use of a drone and can lead to hundreds or even
 thousands of dollars worth of lost due to issues that were not caught early enough on the ground.
-Normally in every project propose, some advantages and disadvantages must be taken into consideration.
