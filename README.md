@@ -79,4 +79,5 @@ The drone
 ================================
 The drone has three main components that describe its behaviour: first it moves along the map by a defined path, it monitors the
 environment through a camera and takes screenshots in a loop according to a predefined time for the owner.
+
 ![Immagine WhatsApp 2023-02-09 ore 15 50 17](https://user-images.githubusercontent.com/95097437/225637313-fb5777a9-e2a9-49c8-b2da-d4a2cd9120a6.jpg)
