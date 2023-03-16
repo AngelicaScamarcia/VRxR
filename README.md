@@ -1,5 +1,11 @@
 # VRxR
 
+Author 
+================================
+Angelica Scamarcia 
+Marc Maalouf
+Pia Saade
+
 Introduction
 ================================
 
