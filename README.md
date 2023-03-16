@@ -57,3 +57,13 @@ of their fields and collect data much faster and more efficiently than tradition
 their plants are, where they might need water or nutrients, and if there any plants that have to be burnt or
 not. Noting that all these cases might be missed without the use of a drone and can lead to hundreds or even
 thousands of dollars worth of lost due to issues that were not caught early enough on the ground.
+
+The environment
+================================
+![image](https://user-images.githubusercontent.com/95097437/225636834-151833d2-0877-4b7a-b90b-f9da616baefc.png)
+
+![image](https://user-images.githubusercontent.com/95097437/225637185-548558fd-ae93-4449-b2fc-c174ab3fbd97.png)
+
+The drone
+================================
+![Immagine WhatsApp 2023-02-09 ore 15 50 17](https://user-images.githubusercontent.com/95097437/225637313-fb5777a9-e2a9-49c8-b2da-d4a2cd9120a6.jpg)
