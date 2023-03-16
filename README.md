@@ -2,8 +2,8 @@
 
 Author 
 ================================
-Angelica Scamarcia 
-Marc Maalouf
+Angelica Scamarcia, 
+Marc Maalouf, 
 Pia Saade
 
 Introduction
