@@ -60,10 +60,23 @@ thousands of dollars worth of lost due to issues that were not caught early enou
 
 The environment
 ================================
+This project consists of a specific type of drones simulated in the
+agriculture environment equipped with a specific laser, flying above the environment in order to monitoring it.
+
 ![image](https://user-images.githubusercontent.com/95097437/225636834-151833d2-0877-4b7a-b90b-f9da616baefc.png)
+
+The drone motion is along a specified path, which was implemented by starting with specifying
+several arrows being the range along which the drone will move. Those arrows are combined into an array, in
+a way that the drone is able to reach the target and then obtain its world location. The search event for the
+next position is repeated in a loop in order to have total coverage of the environment concerned.
+The goal is also to have screenshots documenting the situation in the
+environment,that is why we have implemented a function that is able to take screenshots, in a loop at a fixed
+time, at high resolution through the camera attached to the drone
 
 ![image](https://user-images.githubusercontent.com/95097437/225637185-548558fd-ae93-4449-b2fc-c174ab3fbd97.png)
 
 The drone
 ================================
+The drone has three main components that describe its behaviour: first it moves along the map by a defined path, it monitors the
+environment through a camera and takes screenshots in a loop according to a predefined time for the owner.
 ![Immagine WhatsApp 2023-02-09 ore 15 50 17](https://user-images.githubusercontent.com/95097437/225637313-fb5777a9-e2a9-49c8-b2da-d4a2cd9120a6.jpg)
